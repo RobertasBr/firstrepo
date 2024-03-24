@@ -1,3 +1,7 @@
+//Robertcxs Copyright All rights reserved
+//Author: Robertas Brazzinker
+//Modified: Thomas Samosa
+
 int LEDPin=2;
 
 // the setup function runs once when you press reset or power the board
